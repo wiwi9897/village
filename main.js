@@ -1,5 +1,5 @@
 // main.js
-const SCRIPT_URL = 'YOUR_SCRIPT_URL_HERE';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzzJ-1vuFv7ha9acNfcNmOogUVkwFGgdvN7PjdP1DVIe-F4iF86A3EFgXUm9pTUuSFC/exec';
 
 document.getElementById('motoForm').addEventListener('submit', async e => {
   e.preventDefault();
